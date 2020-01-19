@@ -1,4 +1,4 @@
-First Header | Second Header | thrid|4th
+First Header | Second Header | thrid | 4th
 ------------ | -------------
 [ ] | Mercury | http://somewhere |
 ||something | more
