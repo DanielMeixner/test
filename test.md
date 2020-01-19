@@ -1,5 +1,5 @@
 First Header | Second Header | thrid | 4th
------------- | -------------
+------------ | ------------- | ------------- | -------------
 [ ] | Mercury | http://somewhere |
 ||something | more
 [x] | Venus
