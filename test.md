@@ -10,7 +10,7 @@ First Header | Second Header | thrid | 4th
 
 bla
 
-  [checkbox:unchecked] eins
+ * [ ] unchecked  eins
   [checkbox:unchecked] eins
   [checkbox:unchecked] eins
     
